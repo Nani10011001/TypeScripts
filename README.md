@@ -125,10 +125,6 @@ PORT=5000
 This project focuses on:
 
 * Understanding TypeScript deeply
-* Building scalable backend APIs
-* Integrating frontend with backend
-* Practicing validation (Zod)
-* Structuring real-world projects
 
 ---
 
