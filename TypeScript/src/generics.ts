@@ -1,4 +1,4 @@
-// generics allow creating type vaidbles which can be used to crdate class functions & type aliase that don't need to explictly ddfne
+// generics allow creating type vaidbles which can be used to crdate classor  functions & type aliase that don't need to explictly ddfne
 // generics with function help crate more gneral fuction that accuratly represent the input and return types
 function createPair<S, T>(v1: S, v2: T): [S,T] {
     return [v1,v2];
